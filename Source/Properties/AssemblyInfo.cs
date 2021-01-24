@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Starwaster")]
 [assembly: AssemblyProduct("DeadlyReentryContinued")]
-[assembly: AssemblyCopyright("Copyright © 2014 CC-BY-SA")]
+[assembly: AssemblyCopyright("Copyright © 2020 CC-BY-SA")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -21,7 +21,7 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <ItemGroup>
-	<Compile Include="Checkers.cs" />
+    <Compile Include="Checkers.cs" />
     <Compile Include="DeadlyReentry.cs" />
     <Compile Include="ModuleAnimation2Value.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
